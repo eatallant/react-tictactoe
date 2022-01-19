@@ -5,3 +5,4 @@ My walkthrough of the React intro application found at https://reactjs.org/tutor
 added improvements
 
 1. Display the location for each move
+2. Bold the currently selected item in the move list
